@@ -3,7 +3,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=Oilpainting's%20SketchBook&fontSize=50&fontColor=000&animation=fadeIn&stroke=fff&strokeWidth=1" /> -->
   
 <h3>Me?</h3>
-  <p>UI developer.</p>
+  <p>UI developer in company.</p>
   <p>I am interested in the interactive web.</p>
   
 <h3>Skills</h3>
