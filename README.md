@@ -17,5 +17,5 @@
 
 <h4>Tools</h4>
 
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=fff"> <img src="https://img.shields.io/badge/adobephotoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=fff"> <img src="https://img.shields.io/badge/adobeillustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=fff">
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=fff"> <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=fff"> <img src="https://img.shields.io/badge/GitLab-000000?style=flat-square&logo=GitLab&logoColor=fff"> <img src="https://img.shields.io/badge/adobephotoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=fff"> <img src="https://img.shields.io/badge/adobeillustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=fff">
 </div>
